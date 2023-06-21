@@ -350,170 +350,138 @@ e.g., for human, we have the following let-7 miRNAs
 #### Question 5: What is the levenshtein distance for each let-7 miRNA across all species?
 ## for example, let-7a is present in 121 species, what is the average Levenshtein distance among all pairs?
 
-## ANSWER: 
-Output exceeds the size limit. Open the full output data in a text editorSpecies: hsa-let-7a-5p - hsa-let-7a-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - hsa-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - mmu-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - mmu-let-7a-1-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - mmu-let-7a-2-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - rno-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - rno-let-7a-1-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - rno-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - gga-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - gga-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - gga-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - dre-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - fru-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - tni-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - xtr-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - bta-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - sme-let-7a-5p | Levenshtein Distance: 6
-Species: hsa-let-7a-5p - sme-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - mdo-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - mdo-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - bta-let-7a-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - odi-let-7a | Levenshtein Distance: 6
-Species: hsa-let-7a-5p - cin-let-7a-5p | Levenshtein Distance: 4
-Species: hsa-let-7a-5p - cin-let-7a-1-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - cin-let-7a-2-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - csa-let-7a | Levenshtein Distance: 3
-Species: hsa-let-7a-5p - mml-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - mml-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - mml-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - cfa-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - ptr-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - bfl-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - bfl-let-7a-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - eca-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - ssc-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - tgu-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - tgu-let-7a-1-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - tgu-let-7a-2-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - tgu-let-7a-4-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - ppy-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - pma-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - aca-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - aca-let-7a-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - ola-let-7a-5p | Levenshtein Distance: 1
-Species: hsa-let-7a-5p - ola-let-7a-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - ola-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - sha-let-7a | Levenshtein Distance: 1
-Species: hsa-let-7a-5p - cgr-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - ggo-let-7a | Levenshtein Distance: 1
-Species: hsa-let-7a-5p - mse-let-7a | Levenshtein Distance: 2
-Species: hsa-let-7a-5p - pol-let-7a-5p | Levenshtein Distance: 1
-Species: hsa-let-7a-5p - pol-let-7a-3p | Levenshtein Distance: 16
-Species: hsa-let-7a-5p - ccr-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - ipu-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - oar-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - bbe-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - bbe-let-7a-3p | Levenshtein Distance: 12
-Species: hsa-let-7a-5p - bbe-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - ssa-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - ssa-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - ssa-let-7a-3-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - ssa-let-7a-4-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - ssa-let-7a-5-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - aca-let-7a-3-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - aca-let-7a-2-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - cpi-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - cpi-let-7a-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - cpi-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - cpi-let-7a-4-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - ami-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - ami-let-7a-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - ami-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - ami-let-7a-4-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - cli-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - cli-let-7a-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - cli-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - cli-let-7a-4-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - pbv-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - pbv-let-7a-3p | Levenshtein Distance: 13
-Species: hsa-let-7a-5p - pbv-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - chi-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - chi-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - tch-let-7a-5p | Levenshtein Distance: 2
-Species: hsa-let-7a-5p - tch-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - oha-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - oha-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 14
-Species: hsa-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 12
-Species: hsa-let-7a-5p - cja-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
-Species: hsa-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
-Species: hsa-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
-...
-Species: sbo-let-7a - oga-let-7a | Levenshtein Distance: 0
-Species: pha-let-7a - oga-let-7a | Levenshtein Distance: 0
-Total 'let-7a' miRNAs: 121
-Average Levenshtein Distance of 'let-7a' miRNAs: 8.60
+       ## ANSWER: 
+       Output exceeds the size limit. Open the full output data in a text editorSpecies: hsa-let-7a-5p - hsa-let-7a-3p | Levenshtein    Distance: 14
+       Species: hsa-let-7a-5p - hsa-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - mmu-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - mmu-let-7a-1-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - mmu-let-7a-2-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - rno-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - rno-let-7a-1-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - rno-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - gga-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - gga-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - gga-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - dre-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - fru-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - tni-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - xtr-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - bta-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - sme-let-7a-5p | Levenshtein Distance: 6
+       Species: hsa-let-7a-5p - sme-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - mdo-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - mdo-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - bta-let-7a-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - odi-let-7a | Levenshtein Distance: 6
+       Species: hsa-let-7a-5p - cin-let-7a-5p | Levenshtein Distance: 4
+       Species: hsa-let-7a-5p - cin-let-7a-1-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - cin-let-7a-2-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - csa-let-7a | Levenshtein Distance: 3
+       Species: hsa-let-7a-5p - mml-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - mml-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - mml-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - cfa-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - ptr-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - bfl-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - bfl-let-7a-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - eca-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - ssc-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - tgu-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - tgu-let-7a-1-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - tgu-let-7a-2-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - tgu-let-7a-4-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - ppy-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - pma-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - aca-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - aca-let-7a-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - ola-let-7a-5p | Levenshtein Distance: 1
+       Species: hsa-let-7a-5p - ola-let-7a-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - ola-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - sha-let-7a | Levenshtein Distance: 1
+       Species: hsa-let-7a-5p - cgr-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - ggo-let-7a | Levenshtein Distance: 1
+       Species: hsa-let-7a-5p - mse-let-7a | Levenshtein Distance: 2
+       Species: hsa-let-7a-5p - pol-let-7a-5p | Levenshtein Distance: 1
+       Species: hsa-let-7a-5p - pol-let-7a-3p | Levenshtein Distance: 16
+       Species: hsa-let-7a-5p - ccr-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - ipu-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - oar-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - bbe-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - bbe-let-7a-3p | Levenshtein Distance: 12
+       Species: hsa-let-7a-5p - bbe-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - ssa-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - ssa-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - ssa-let-7a-3-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - ssa-let-7a-4-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - ssa-let-7a-5-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - aca-let-7a-3-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - aca-let-7a-2-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - cpi-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - cpi-let-7a-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - cpi-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - cpi-let-7a-4-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - ami-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - ami-let-7a-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - ami-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - ami-let-7a-4-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - cli-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - cli-let-7a-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - cli-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - cli-let-7a-4-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - pbv-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - pbv-let-7a-3p | Levenshtein Distance: 13
+       Species: hsa-let-7a-5p - pbv-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - chi-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - chi-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - tch-let-7a-5p | Levenshtein Distance: 2
+       Species: hsa-let-7a-5p - tch-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - oha-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - oha-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - oha-let-7a-2-3p | Levenshtein Distance: 14
+       Species: hsa-let-7a-5p - oha-let-7a-3-3p | Levenshtein Distance: 12
+       Species: hsa-let-7a-5p - cja-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - pal-let-7a-5p | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - pal-let-7a-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - pal-let-7a-2-3p | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - cgr-let-7a-2 | Levenshtein Distance: 15
+       Species: hsa-let-7a-5p - abu-let-7a | Levenshtein Distance: 0
+       Species: hsa-let-7a-5p - mze-let-7a | Levenshtein Distance: 0
+       ...
+       Species: sbo-let-7a - oga-let-7a | Levenshtein Distance: 0
+       Species: pha-let-7a - oga-let-7a | Levenshtein Distance: 0
+       Total 'let-7a' miRNAs: 121
+       Average Levenshtein Distance of 'let-7a' miRNAs: 8.60
 
+       The Average Levenshtein distance among all pairs for miRNA family let-7-: 10.20
+       The frequency of miRNA family let-7-: 38
+       The Average Levenshtein distance among all pairs for miRNA family let-7a: 8.60
+       The frequency of miRNA family let-7a: 121
+       The Average Levenshtein distance among all pairs for miRNA family let-7b: 7.35
+       The frequency of miRNA family let-7b: 73
+       The Average Levenshtein distance among all pairs for miRNA family let-7c: 7.71
+       The frequency of miRNA family let-7c: 88
+       The Average Levenshtein distance among all pairs for miRNA family let-7d: 7.98
+       The frequency of miRNA family let-7d: 67
+       The Average Levenshtein distance among all pairs for miRNA family let-7e: 7.68
+       The frequency of miRNA family let-7e: 64
+       The Average Levenshtein distance among all pairs for miRNA family let-7f: 7.41
+       The frequency of miRNA family let-7f: 83
+       The Average Levenshtein distance among all pairs for miRNA family let-7g: 6.83
+       The frequency of miRNA family let-7g: 71
+       The Average Levenshtein distance among all pairs for miRNA family let-7i: 6.04
+       The frequency of miRNA family let-7i: 70
+       The Average Levenshtein distance among all pairs for miRNA family let-7M: 1.60
+       The frequency of miRNA family let-7M: 30
+       The Average Levenshtein distance among all pairs for miRNA family let-7j: 7.62
+       The frequency of miRNA family let-7j: 16
+       The Average Levenshtein distance among all pairs for miRNA family let-7k: 12.00
+       The frequency of miRNA family let-7k: 3
+       The Average Levenshtein distance among all pairs for miRNA family let-7h: 4.76
+       The frequency of miRNA family let-7h: 14
+       The Average Levenshtein distance among all pairs for miRNA family let-7l: 12.00
+       The frequency of miRNA family let-7l: 2
+       Total sequences count: 740
 
-The Average Levenshtein distance among all pairs for miRNA family let-7-: 10.20
-The frequency of miRNA family let-7-: 38
-The Average Levenshtein distance among all pairs for miRNA family let-7a: 8.60
-The frequency of miRNA family let-7a: 121
-The Average Levenshtein distance among all pairs for miRNA family let-7b: 7.35
-The frequency of miRNA family let-7b: 73
-The Average Levenshtein distance among all pairs for miRNA family let-7c: 7.71
-The frequency of miRNA family let-7c: 88
-The Average Levenshtein distance among all pairs for miRNA family let-7d: 7.98
-The frequency of miRNA family let-7d: 67
-The Average Levenshtein distance among all pairs for miRNA family let-7e: 7.68
-The frequency of miRNA family let-7e: 64
-The Average Levenshtein distance among all pairs for miRNA family let-7f: 7.41
-The frequency of miRNA family let-7f: 83
-The Average Levenshtein distance among all pairs for miRNA family let-7g: 6.83
-The frequency of miRNA family let-7g: 71
-The Average Levenshtein distance among all pairs for miRNA family let-7i: 6.04
-The frequency of miRNA family let-7i: 70
-The Average Levenshtein distance among all pairs for miRNA family let-7M: 1.60
-The frequency of miRNA family let-7M: 30
-The Average Levenshtein distance among all pairs for miRNA family let-7j: 7.62
-The frequency of miRNA family let-7j: 16
-The Average Levenshtein distance among all pairs for miRNA family let-7k: 12.00
-The frequency of miRNA family let-7k: 3
-The Average Levenshtein distance among all pairs for miRNA family let-7h: 4.76
-The frequency of miRNA family let-7h: 14
-The Average Levenshtein distance among all pairs for miRNA family let-7l: 12.00
-The frequency of miRNA family let-7l: 2
-Total sequences count: 740
-
-## and it`s matplot is the following:
-![Figure_5](https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+       ## and it`s matplot is the following:
+       ![Figure_5](https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git). 
 
