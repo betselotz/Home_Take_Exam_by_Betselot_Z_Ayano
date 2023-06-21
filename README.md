@@ -340,15 +340,15 @@ e.g., for human, we have the following let-7 miRNAs
        Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 16
        Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 14
        Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 8
-
+ ## The figure is:
        ![Figure_4] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 
 #### Likewise, I could able to get the average Levenshtein distance among all pairs for species. On the code, I put the codes for two species which are Homo sapiens, and Mus musculus.   
 
 
 ## Question 5: 
-#### What is the levenshtein distance for each let-7 miRNA across all species?
-#### for example, let-7a is present in 121 species, what is the average Levenshtein distance among all pairs?
+#### What is the Levenshtein distance for each let-7 miRNA across all species?
+#### For example, let-7a is present in 121 species, what is the average Levenshtein distance among all pairs?
 
        ## ANSWER: 
        Output exceeds the size limit. Open the full output data in a text editorSpecies: hsa-let-7a-5p - hsa-let-7a-3p | Levenshtein    Distance: 14
@@ -482,6 +482,5 @@ e.g., for human, we have the following let-7 miRNAs
        The frequency of miRNA family let-7l: 2
        Total sequences count: 740
 
-       ## and it`s matplot is the following:
+       ## The figure is:
        ![Figure_5](https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git). 
-
