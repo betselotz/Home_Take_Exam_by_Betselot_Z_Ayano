@@ -14,7 +14,7 @@ miRBase is the primary public repository and online resource for microRNA sequen
 #### Task1: How many species are there in the current miRBase release? 
            ##Answer: Total number of species: 271 
 
-#### Task 2: generate an ordered plot (i.e. from lowest to highest) of number of miRNAs / species
+#### Task 2: generate an ordered plot (i.e. from lowest to highest) of the number of miRNAs / species
            ## Answer: ![Figure_1] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 
 
