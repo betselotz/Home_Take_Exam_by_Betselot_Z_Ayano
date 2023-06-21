@@ -11,11 +11,11 @@ miRBase is the primary public repository and online resource for microRNA sequen
 
 
 ## Question 1: 
-## Task1: How many species are there in the current miRBase release? 
-## Answer: Total number of species: 271 
+#### Task1: How many species are there in the current miRBase release? 
+####Answer: Total number of species: 271 
 
-## Task 2: generate an ordered plot (i.e. from lowest to highest) of number of miRNAs / species
-## Answer: ![Figure_1] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
+#### Task 2: generate an ordered plot (i.e. from lowest to highest) of number of miRNAs / species
+#### Answer: ![Figure_1] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 
 
 ## Question 2: How many let-7 miRNAs are there in the current release of miRBase? 
@@ -23,13 +23,13 @@ miRBase is the primary public repository and online resource for microRNA sequen
 
 
 ## Question 3:
- ## Task1: What is the current version of miRBase? 
+#### Task1: What is the current version of miRBase? 
             ## Answer: Current version of miRBase: 22.1
-## Task2: generate a plot to show which let miRNAs are present in each species. 
+#### Task2: generate a plot to show which let miRNAs are present in each species. 
            ## Answer: ![Figure_2]Figure_2(https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 
 
-## Task3: What is the average levenshtein distance for the let-7 miRNAs for each species?
+#### Task3: What is the average levenshtein distance for the let-7 miRNAs for each species?
 e.g., for human, we have the following let-7 miRNAs
 
 ```
@@ -133,11 +133,10 @@ e.g., for human, we have the following let-7 miRNAs
 
 
 
-#### Question 4: 
-## Task1: what is the average Levenshtein distance among all pairs for human?
+## Question 4: 
+#### Task1: what is the average Levenshtein distance among all pairs for human?
 
-## Answer:
-## Answer:
+#### Answer:
 
        Output exceeds the size limit. Open the full output data in a text editorPairwise Levenshtein distances for hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p
        Levenshtein distance between hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 14
@@ -239,7 +238,7 @@ e.g., for human, we have the following let-7 miRNAs
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 5
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 12
        # and the plot is:![Figure_3 (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
-## Task2: repeat this for all species and plot
+####Task2: repeat this for all species and plot
 
        Output exceeds the size limit. Open the full output data in a text editorPairwise Levenshtein distances for mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p
        Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 16
@@ -347,8 +346,9 @@ e.g., for human, we have the following let-7 miRNAs
        Likewise I could able to get average Levenshtein distance among all pairs for species. On the code I put the codes for two species which are Homo sapiens,and Mus musculus.   
 
 
-#### Question 5: What is the levenshtein distance for each let-7 miRNA across all species?
-## for example, let-7a is present in 121 species, what is the average Levenshtein distance among all pairs?
+## Question 5: 
+#### What is the levenshtein distance for each let-7 miRNA across all species?
+#### for example, let-7a is present in 121 species, what is the average Levenshtein distance among all pairs?
 
        ## ANSWER: 
        Output exceeds the size limit. Open the full output data in a text editorSpecies: hsa-let-7a-5p - hsa-let-7a-3p | Levenshtein    Distance: 14
