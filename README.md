@@ -233,8 +233,7 @@ e.g., for human, we have the following let-7 miRNAs
        Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7a-5p MIMAT0000062 Homo sapiens let-7a-5p: 1
        Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7a-3p MIMAT0004481 Homo sapiens let-7a-3p: 14
        Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7a-2-3p MIMAT0010195 Homo sapiens let-7a-2-3p: 15
-       Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 1
-...
+       Levenshtein distance between hsa-let-7c-5p MIMAT0000064 Homo sapiens let-7c-5p and hsa-let-7b-5p MIMAT0000063 Homo sapiens let-7b-5p: 1 ...
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7f-2-3p MIMAT0004487 Homo sapiens let-7f-2-3p: 8
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 13
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 5
