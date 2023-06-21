@@ -241,110 +241,110 @@ e.g., for human, we have the following let-7 miRNAs
        # and the plot is:![Figure_3 (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 ## Task2: repeat this for all species and plot
 
-Output exceeds the size limit. Open the full output data in a text editorPairwise Levenshtein distances for mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 16
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 2
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 13
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 4
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 15
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 2
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 15
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 14
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 4
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 16
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 3
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 14
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 15
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 3
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 15
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 2
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 16
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 13
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 5
-Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 6
-Pairwise Levenshtein distances for mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 16
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 6
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 13
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 8
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 8
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 7
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 7
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 8
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 8
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 8
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 8
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 6
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 15
-Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 14
-Pairwise Levenshtein distances for mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 2
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 15
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 12
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 6
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 13
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 4
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 14
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 13
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 3
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 15
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 4
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 13
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 14
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 5
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 15
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 4
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 15
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 12
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 3
-Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 5
-Pairwise Levenshtein distances for mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 13
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 6
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 12
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 12
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 7
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 12
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 7
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 9
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 12
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 6
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 12
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 8
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 7
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 13
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 11
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 12
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 7
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 8
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 13
-Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 13
-Pairwise Levenshtein distances for mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 4
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 13
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 6
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 12
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 14
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 2
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 16
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 13
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 4
-Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 15
-...
-Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 6
-Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 16
-Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 14
-Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 8
+       Output exceeds the size limit. Open the full output data in a text editorPairwise Levenshtein distances for mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 16
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 2
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 13
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 4
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 15
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 2
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 15
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 14
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 4
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 16
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 3
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 14
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 15
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 3
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 15
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 2
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 16
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 13
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 5
+       Levenshtein distance between mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 6
+       Pairwise Levenshtein distances for mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 16
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 6
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 13
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 8
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 8
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 7
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 7
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 8
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 8
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 8
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 8
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 6
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 15
+       Levenshtein distance between mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 14
+       Pairwise Levenshtein distances for mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 2
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 15
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 12
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 6
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 13
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 4
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 14
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 13
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 3
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 15
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 4
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 13
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 14
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 5
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 15
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 4
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 15
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 12
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 3
+       Levenshtein distance between mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 5
+       Pairwise Levenshtein distances for mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 13
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 6
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 12
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p: 12
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 7
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 12
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 7
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 9
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 12
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 6
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p: 12
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p: 8
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p: 7
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p: 13
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p: 11
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 12
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 7
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 8
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 13
+       Levenshtein distance between mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p and mmu-let-7k MIMAT0025580 Mus musculus let-7k: 13
+       Pairwise Levenshtein distances for mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p: 4
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p: 13
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p: 6
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p: 12
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p: 14
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p: 2
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p: 16
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p: 13
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p: 4
+       Levenshtein distance between mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p and mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p: 15
+       ...
+       Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p: 6
+       Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 16
+       Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 14
+       Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 8
 
-![Figure_4] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
+       ![Figure_4] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 
-Likewise I could able to get average Levenshtein distance among all pairs for species. On the code I put the codes for two species which are Homo sapiens,and Mus musculus.   
+       Likewise I could able to get average Levenshtein distance among all pairs for species. On the code I put the codes for two species which are Homo sapiens,and Mus musculus.   
 
 
 #### Question 5: What is the levenshtein distance for each let-7 miRNA across all species?
