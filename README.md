@@ -340,7 +340,7 @@ e.g., for human, we have the following let-7 miRNAs
        Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p: 16
        Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p: 14
        Levenshtein distance between mmu-let-7k MIMAT0025580 Mus musculus let-7k and mmu-let-7j MIMAT0025123 Mus musculus let-7j: 8
- ## The figure is:
+ The figure is:
        ![Figure_4] (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 
 #### Likewise, I could able to get the average Levenshtein distance among all pairs for species. On the code, I put the codes for two species which are Homo sapiens, and Mus musculus.   
