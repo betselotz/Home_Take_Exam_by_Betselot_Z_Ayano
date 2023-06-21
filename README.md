@@ -239,7 +239,6 @@ e.g., for human, we have the following let-7 miRNAs
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-5p MIMAT0000414 Homo sapiens let-7g-5p: 13
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7g-3p MIMAT0004584 Homo sapiens let-7g-3p: 5
        Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p and hsa-let-7i-5p MIMAT0000415 Homo sapiens let-7i-5p: 12
-
        # and the plot is:![Figure_3 (https://github.com/betselotz/Home_Take_Exam_by_Betselot_Z_Ayano.git)
 ## Task2: repeat this for all species and plot
 
